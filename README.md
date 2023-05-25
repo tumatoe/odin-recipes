@@ -1,1 +1,1 @@
-# odin-recipes
+# I will be making a recipe list and will be my first project using HTML foundations
